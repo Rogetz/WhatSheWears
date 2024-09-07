@@ -122,7 +122,7 @@ export function ActualHome(){
                         </div>
                         <div className="flex px-4 justify-between">
                             <p className="px-4 text-gray-400 font-medium">{product.category}</p>
-                            <button>order</button>
+                            <button className="rounded-lg px-4 py-2 bg-blue-600 text-white">order</button>
                         </div>
                     </Link>
 
